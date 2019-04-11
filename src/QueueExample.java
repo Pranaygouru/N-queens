@@ -16,7 +16,7 @@ public class QueueExample
 
         // To remove the head of queue.
         int removedele = q.remove();
-        System.out.println("removed element-" + removedele);
+//        System.out.println("removed element-" + removedele);
 
         System.out.println(q);
 
