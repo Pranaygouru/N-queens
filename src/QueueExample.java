@@ -5,7 +5,7 @@ public class QueueExample
 {
     public static void main(String[] args)
     {
-       /* Queue<Integer> q = new LinkedList<>();
+        Queue<Integer> q = new LinkedList<>();
 
         // Adds elements {0, 1, 2, 3, 4} to queue
         for (int i=0; i<5; i++)
@@ -28,6 +28,6 @@ public class QueueExample
         // Like size and contains can be used with this
         // implementation.
         int size = q.size();
-        System.out.println("Size of queue-" + size);*/
+        System.out.println("Size of queue-" + size);
     }
 } 
